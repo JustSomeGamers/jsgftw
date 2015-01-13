@@ -1,0 +1,92 @@
+@font-face {
+	font-family: "DejaVuMono";
+	src: url('.../font/ttf/DejaVuSansMono.ttf');
+} 
+
+@font-face {
+	font-family: "DejaVuSans";
+	src: url('.../font/ttf/DejaVuSans.ttf');
+} 
+
+@font-face {
+	font-family: "DejaVuSerif";
+	src: url('.../font/ttf/DejaVuSerif.ttf');
+} 
+
+.nav ul{
+	float: right;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.bgwm0 {
+	margin: 0 auto;
+	width: 500px;
+	background-color:"#444444"
+}
+
+#nav {
+	width: 100%;
+	float: left;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none;
+	background-color: #f2f2f2;
+	opacity: .5;
+	border-bottom: 1px solid #ccc; 
+	border-top: 1px solid #ccc;
+}
+
+#nav li {
+	float: left;
+}
+
+#nav li a {
+	display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #069;
+	border-right: 1px solid #ccc;
+}
+
+#nav li a:hover {
+	color: #c00;
+	opacity: 1;
+	background-color: #fff;
+}
+
+h1 {
+	font-family: "DejaVuMono", "DejaVuSerif", Verdana, Arial, serif;
+}
+
+h2 {
+	font-family: serif;
+}
+
+h3 {
+	font-family: "DejaVuMono", "DejaVuSerif", Verdana, Arial, serif;
+}
+
+h4 {
+	font-family: "DejaVuMono", "DejaVuSerif", Verdana, Arial, serif;
+}
+
+h5 {
+	font-family: "DejaVuMono", "DejaVuSerif", Verdana, Arial, serif;
+}
+
+h6 {
+	font-family: "DejaVuMono", "DejaVuSerif", Verdana, Arial, serif;
+}
+
+body {
+	font-family: "DejaVuMono", Verdana, Arial, serif;
+	font-size: 16px;
+	letter-spacing: 0px;
+}
+
+p {
+	font-family: "DejaVuMono", "DejaVuSerif", Verdana, Arial, serif;
+}
