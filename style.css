@@ -1,0 +1,29 @@
+html {
+    padding: 0px;
+    font-size: 13px;
+    text-size-adjust: 80%;
+}
+body {
+    padding: 0px;
+    width: 600px;
+}
+p {
+    font-family: monospace;
+}
+ul{
+    font-family: monospace;
+    padding: 0px 0px 10px 10px;
+}
+li{
+    padding: 10px 0px 0px 0px;
+}
+footer {
+    padding: 20px 50px 50px 50px;
+    font-family: monospace;
+}
+#list{
+    padding-left: 20px;
+}
+#date-name{
+    padding: 15px 0px 0px 50px;
+}
