@@ -1,11 +1,12 @@
 html {
-    padding: 0px;
     font-size: 13px;
     text-size-adjust: 80%;
 }
 body {
-    padding: 0px;
     width: 600px;
+}
+section {
+  padding-left: 10px;
 }
 p {
     font-family: monospace;
@@ -24,6 +25,10 @@ footer {
 #list{
     padding-left: 20px;
 }
-#date-name{
+#date{
+    font-style: italic;
     padding: 15px 0px 0px 50px;
+}
+#underline {
+  text-decoration: underline;
 }
