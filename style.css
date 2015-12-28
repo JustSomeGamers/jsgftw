@@ -15,6 +15,10 @@ ul{
     font-family: monospace;
     padding: 0px 0px 10px 10px;
 }
+ol{
+    font-family: monospace;
+    padding: 0px 0px 10px 10px;
+}
 li{
     padding: 10px 0px 0px 0px;
 }
