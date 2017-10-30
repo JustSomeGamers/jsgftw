@@ -1,4 +1,3 @@
 # jsgftw.com
-http://jsgftw.github.io
-http://jsgftw.com
+http://justsomegamers.github.io/jsgftw/
 A basic HTML site with some community resources for JustSomeGamers.
